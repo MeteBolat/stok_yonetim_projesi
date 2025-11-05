@@ -1,0 +1,11 @@
+# StockApp (PHP + MySQL + Docker)
+
+Basit stok takip uygulaması (ürün CRUD, stok takibi ve Dashboard).
+
+## Kurulum:
+   git clone https://github.com/<kullanici-adin>/stock-app.git
+   cd stock-app
+   docker-compose up -d --build
+   
+   Uygulama: http://localhost:8080
+   phpMyAdmin: http://localhost:8082
